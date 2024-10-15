@@ -19,6 +19,9 @@ export class HeaderComponent {
     //if (this.var1 == this.var2) {
     console.log('prueba de lintstaged');
     console.log('prueba de lintstaged222');
+    console.log('prueba de lintstaged222');
+    console.log('prueba de lintstaged222');
+    console.log('prueba de lintstaged222');
     if (this.var1 === this.var2) {
       console.log('son iguales');
     } else {
