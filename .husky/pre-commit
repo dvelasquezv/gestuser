@@ -1,0 +1,7 @@
+#npm test
+# analizar formato de codigo usando prettier
+##npm run format
+# usar linter eslint para analizar  codigo
+##ng lint --fix
+
+npx lint-staged
